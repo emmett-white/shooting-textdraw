@@ -44,7 +44,10 @@ hook OnPlayerConnect(playerid)
     return 1;
 }
 
-// From callbacks.inc
+// ----
+// Callbacks
+// ----
+
 public OnPlayerHoldingKey(playerid, keys)
 {
 	// If holding KEY_FIRE (MOUSE1 / Left Mouse / LMB)
@@ -66,10 +69,6 @@ public OnPlayerHoldingKey(playerid, keys)
     }
     return 1;
 }
-
-// ----
-// Callbacks
-// ----
 
 // From callbacks.inc
 public OnPlayerReleaseKey(playerid, keys, time)
