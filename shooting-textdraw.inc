@@ -70,7 +70,6 @@ public OnPlayerHoldingKey(playerid, keys)
     return 1;
 }
 
-// From callbacks.inc
 public OnPlayerReleaseKey(playerid, keys, time)
 {
 	// If stop holding KEY_FIRE (MOUSE1 / Left Mouse / LMB)
