@@ -4,7 +4,11 @@
   * Date: 3th April
   * Time: 07:08 AM
   * Copyright (C) 2020
-  * Credits: Emmet_ - New SA-MP callbacks (callbacks.inc)
+  * Credits:
+  	* Emmet_ - New SA-MP callbacks (callbacks.inc)
+	* Y_Less - YSI Includes
+	* maddinat0r - sscanf
+	* Awesomedude - easyDialog
 */
 
 #include <a_samp>
